@@ -131,3 +131,8 @@ dmypy.json
 # data
 round1_test.csv
 round1_train.csv
+dataset_round1/
+train.pkl
+test.pkl
+train.csv
+test.csv
