@@ -136,3 +136,7 @@ train.pkl
 test.pkl
 train.csv
 test.csv
+data/
+catboost_info/
+pandas_report/
+과제2_예선_예측결과_김당찬.csv
